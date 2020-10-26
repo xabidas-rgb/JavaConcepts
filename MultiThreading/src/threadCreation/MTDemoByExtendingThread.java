@@ -1,5 +1,9 @@
 package threadCreation;
 
+/**
+ * @author abinash
+ * A demo program to show, how to create thread extending Thread class
+ */
 public class MTDemoByExtendingThread extends Thread{
 	
 	public void run() {
